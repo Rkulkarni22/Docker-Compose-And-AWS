@@ -1,0 +1,6 @@
+@LOS_Backend_Service_HostAddress = http://localhost:5126
+
+GET {{LOS_Backend_Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

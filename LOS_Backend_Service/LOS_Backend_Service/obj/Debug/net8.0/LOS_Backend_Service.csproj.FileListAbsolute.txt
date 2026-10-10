@@ -1,0 +1,226 @@
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\appsettings.Development.json
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\appsettings.json
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\LOS_Backend_Service.staticwebassets.endpoints.json
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\LOS_Backend_Service.exe
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\LOS_Backend_Service.deps.json
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\LOS_Backend_Service.runtimeconfig.json
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\LOS_Backend_Service.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\LOS_Backend_Service.pdb
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Humanizer.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Npgsql.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\System.CodeDom.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Backend_Service.csproj.AssemblyReference.cache
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Backend_Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Backend_Service.AssemblyInfoInputs.cache
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Backend_Service.AssemblyInfo.cs
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Backend_Service.csproj.CoreCompileInputs.cache
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Backend_Service.MvcApplicationPartsAssemblyInfo.cs
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Backend_Service.MvcApplicationPartsAssemblyInfo.cache
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\scopedcss\bundle\LOS_Backend_Service.styles.css
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\staticwebassets.build.json
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\staticwebassets.development.json
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Back.5CFCDD09.Up2Date
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Backend_Service.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\refint\LOS_Backend_Service.dll
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Backend_Service.pdb
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Backend_Service.genruntimeconfig.cache
+D:\DevOps\June-2026\Capstone Project & Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\ref\LOS_Backend_Service.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\appsettings.Development.json
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\LOS_Backend_Service.staticwebassets.endpoints.json
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\appsettings.json
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\LOS_Backend_Service.exe
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\LOS_Backend_Service.deps.json
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\LOS_Backend_Service.runtimeconfig.json
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\LOS_Backend_Service.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\LOS_Backend_Service.pdb
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Humanizer.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Npgsql.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\System.CodeDom.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Backend_Service.csproj.AssemblyReference.cache
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Backend_Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Backend_Service.AssemblyInfoInputs.cache
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Backend_Service.AssemblyInfo.cs
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Backend_Service.csproj.CoreCompileInputs.cache
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Backend_Service.MvcApplicationPartsAssemblyInfo.cs
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Backend_Service.MvcApplicationPartsAssemblyInfo.cache
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\scopedcss\bundle\LOS_Backend_Service.styles.css
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\staticwebassets.build.json
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\staticwebassets.development.json
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Back.5CFCDD09.Up2Date
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Backend_Service.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\refint\LOS_Backend_Service.dll
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Backend_Service.pdb
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\LOS_Backend_Service.genruntimeconfig.cache
+D:\DevOps\June-2026\Capstone_Project_Assignments\AWS+Docker\Repo\Application\LOS_Backend_Service\LOS_Backend_Service\obj\Debug\net8.0\ref\LOS_Backend_Service.dll

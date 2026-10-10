@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DevOps\\June-2026\\Capstone_Project_Assignments\\AWS\u002BDocker\\Repo\\Application\\LOS_Backend_Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49338FB7-EE4F-4161-AB9B-AEB79172DAB2}|LOS_Backend_Service\\LOS_Backend_Service.csproj|d:\\devops\\june-2026\\capstone_project_assignments\\aws\u002Bdocker\\repo\\application\\los_backend_service\\los_backend_service\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49338FB7-EE4F-4161-AB9B-AEB79172DAB2}|LOS_Backend_Service\\LOS_Backend_Service.csproj|solutionrelative:los_backend_service\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49338FB7-EE4F-4161-AB9B-AEB79172DAB2}|LOS_Backend_Service\\LOS_Backend_Service.csproj|d:\\devops\\june-2026\\capstone_project_assignments\\aws\u002Bdocker\\repo\\application\\los_backend_service\\los_backend_service\\models\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49338FB7-EE4F-4161-AB9B-AEB79172DAB2}|LOS_Backend_Service\\LOS_Backend_Service.csproj|solutionrelative:los_backend_service\\models\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49338FB7-EE4F-4161-AB9B-AEB79172DAB2}|LOS_Backend_Service\\LOS_Backend_Service.csproj|d:\\devops\\june-2026\\capstone_project_assignments\\aws\u002Bdocker\\repo\\application\\los_backend_service\\los_backend_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49338FB7-EE4F-4161-AB9B-AEB79172DAB2}|LOS_Backend_Service\\LOS_Backend_Service.csproj|solutionrelative:los_backend_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49338FB7-EE4F-4161-AB9B-AEB79172DAB2}|LOS_Backend_Service\\LOS_Backend_Service.csproj|d:\\devops\\june-2026\\capstone_project_assignments\\aws\u002Bdocker\\repo\\application\\los_backend_service\\los_backend_service\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{49338FB7-EE4F-4161-AB9B-AEB79172DAB2}|LOS_Backend_Service\\LOS_Backend_Service.csproj|solutionrelative:los_backend_service\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49338FB7-EE4F-4161-AB9B-AEB79172DAB2}|LOS_Backend_Service\\LOS_Backend_Service.csproj|d:\\devops\\june-2026\\capstone_project_assignments\\aws\u002Bdocker\\repo\\application\\los_backend_service\\los_backend_service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49338FB7-EE4F-4161-AB9B-AEB79172DAB2}|LOS_Backend_Service\\LOS_Backend_Service.csproj|solutionrelative:los_backend_service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49338FB7-EE4F-4161-AB9B-AEB79172DAB2}|LOS_Backend_Service\\LOS_Backend_Service.csproj|d:\\devops\\june-2026\\capstone_project_assignments\\aws\u002Bdocker\\repo\\application\\los_backend_service\\los_backend_service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49338FB7-EE4F-4161-AB9B-AEB79172DAB2}|LOS_Backend_Service\\LOS_Backend_Service.csproj|solutionrelative:los_backend_service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49338FB7-EE4F-4161-AB9B-AEB79172DAB2}|LOS_Backend_Service\\LOS_Backend_Service.csproj|d:\\devops\\june-2026\\capstone_project_assignments\\aws\u002Bdocker\\repo\\application\\los_backend_service\\los_backend_service\\models\\losdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49338FB7-EE4F-4161-AB9B-AEB79172DAB2}|LOS_Backend_Service\\LOS_Backend_Service.csproj|solutionrelative:los_backend_service\\models\\losdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DevOps\\June-2026\\Capstone_Project_Assignments\\AWS\u002BDocker\\Repo\\Application\\LOS_Backend_Service\\LOS_Backend_Service\\appsettings.json",
+              "RelativeDocumentMoniker": "LOS_Backend_Service\\appsettings.json",
+              "ToolTip": "D:\\DevOps\\June-2026\\Capstone_Project_Assignments\\AWS\u002BDocker\\Repo\\Application\\LOS_Backend_Service\\LOS_Backend_Service\\appsettings.json",
+              "RelativeToolTip": "LOS_Backend_Service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-30T16:53:05.848Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\DevOps\\June-2026\\Capstone_Project_Assignments\\AWS\u002BDocker\\Repo\\Application\\LOS_Backend_Service\\LOS_Backend_Service\\Dockerfile",
+              "RelativeDocumentMoniker": "LOS_Backend_Service\\Dockerfile",
+              "ToolTip": "D:\\DevOps\\June-2026\\Capstone_Project_Assignments\\AWS\u002BDocker\\Repo\\Application\\LOS_Backend_Service\\LOS_Backend_Service\\Dockerfile",
+              "RelativeToolTip": "LOS_Backend_Service\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-02T08:05:53.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DevOps\\June-2026\\Capstone_Project_Assignments\\AWS\u002BDocker\\Repo\\Application\\LOS_Backend_Service\\LOS_Backend_Service\\Program.cs",
+              "RelativeDocumentMoniker": "LOS_Backend_Service\\Program.cs",
+              "ToolTip": "D:\\DevOps\\June-2026\\Capstone_Project_Assignments\\AWS\u002BDocker\\Repo\\Application\\LOS_Backend_Service\\LOS_Backend_Service\\Program.cs",
+              "RelativeToolTip": "LOS_Backend_Service\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:10:32.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserMaster.cs",
+              "DocumentMoniker": "D:\\DevOps\\June-2026\\Capstone_Project_Assignments\\AWS\u002BDocker\\Repo\\Application\\LOS_Backend_Service\\LOS_Backend_Service\\Models\\UserMaster.cs",
+              "RelativeDocumentMoniker": "LOS_Backend_Service\\Models\\UserMaster.cs",
+              "ToolTip": "D:\\DevOps\\June-2026\\Capstone_Project_Assignments\\AWS\u002BDocker\\Repo\\Application\\LOS_Backend_Service\\LOS_Backend_Service\\Models\\UserMaster.cs",
+              "RelativeToolTip": "LOS_Backend_Service\\Models\\UserMaster.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T17:40:55.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LosDbContext.cs",
+              "DocumentMoniker": "D:\\DevOps\\June-2026\\Capstone_Project_Assignments\\AWS\u002BDocker\\Repo\\Application\\LOS_Backend_Service\\LOS_Backend_Service\\Models\\LosDbContext.cs",
+              "RelativeDocumentMoniker": "LOS_Backend_Service\\Models\\LosDbContext.cs",
+              "ToolTip": "D:\\DevOps\\June-2026\\Capstone_Project_Assignments\\AWS\u002BDocker\\Repo\\Application\\LOS_Backend_Service\\LOS_Backend_Service\\Models\\LosDbContext.cs",
+              "RelativeToolTip": "LOS_Backend_Service\\Models\\LosDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T17:40:48.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DevOps\\June-2026\\Capstone_Project_Assignments\\AWS\u002BDocker\\Repo\\Application\\LOS_Backend_Service\\LOS_Backend_Service\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LOS_Backend_Service\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DevOps\\June-2026\\Capstone_Project_Assignments\\AWS\u002BDocker\\Repo\\Application\\LOS_Backend_Service\\LOS_Backend_Service\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LOS_Backend_Service\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T15:50:31.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\DevOps\\June-2026\\Capstone_Project_Assignments\\AWS\u002BDocker\\Repo\\Application\\LOS_Backend_Service\\LOS_Backend_Service\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LOS_Backend_Service\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\DevOps\\June-2026\\Capstone_Project_Assignments\\AWS\u002BDocker\\Repo\\Application\\LOS_Backend_Service\\LOS_Backend_Service\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LOS_Backend_Service\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-30T18:44:36.122Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

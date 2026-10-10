@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "LOS_Backend_Service.Controllers.HomeController",
+    "Method": "GetUsers",
+    "RelativePath": "api/Home",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
